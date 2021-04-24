@@ -1,0 +1,83 @@
+[
+    { 
+    "title" : "Feriados",
+    "icon" : "holiday",
+    "questionAnswered": 1,
+    "level" : "facil",
+    "questions" : [
+        {
+            "title": "Qual é o dia da Confraternização Universal?",
+            "answers" : [
+                {"title": "1 de janeiro", "isRight" : true},
+                {"title": "21 de abril"},
+                {"title": "25 de dezembro"},
+                {"title": "19 de abril"}
+            ]
+        },
+        {
+            "title": "Qual é o dia de Tiradentes?",
+            "answers" : [
+                {"title": "19 de abril"},
+                {"title": "21 de abril", "isRight" : true},
+                {"title": "12 de outubro"},
+                {"title": "6 de junho"}
+            ]
+        },
+        {
+            "title": "Qua é o Dia Mundial do Trabalho?",
+            "answers" : [
+                {"title": "14 de fevereiro"},
+                {"title": "7 de julho"},
+                {"title": "1 de abril"},
+                {"title": "1 de maio", "isRight" : true}
+            ]
+        }
+
+    ]
+    },
+    { 
+        "title" : "Datas Cívicas",
+        "icon" : "bandeiraDoBrasil",
+        "questionAnswered": 1,
+        "level" : "facil",
+        "questions" : [
+            {
+                "title": "Qual é o Dia do Índio?",
+                "answers" : [
+                    {"title": "14 de fevereiro"},
+                    {"title": "19 de abril", "isRight" : true},
+                    {"title": "12 de maio"},
+                    {"title": "17 de março"}
+                ]
+            },
+            {
+                "title": "Qual é o dia do Descobrimento do Brasil?",
+                "answers" : [
+                    {"title": "19 de abril"},
+                    {"title": "21 de abril"},
+                    {"title": "1 de maio"},
+                    {"title": "22 de abril", "isRight" : true}
+                ]
+            },
+            {
+                "title": "Qua é o Dia da Abolição da Escravatura?",
+                "answers" : [
+                    {"title": "12 de fevereiro"},
+                    {"title": "10 de julho"},
+                    {"title": "21 de abril"},
+                    {"title": "13 de maio", "isRight" : true}
+                ]
+            },
+            {
+                "title": "Qua é o Dia da Árvore?",
+                "answers" : [
+                    {"title": "10 de fevereiro"},
+                    {"title": "1 de junho"},
+                    {"title": "21 de setembro", "isRight" : true},
+                    {"title": "15 de novembro"}
+                ]
+            }
+    
+        ]
+    }
+]
